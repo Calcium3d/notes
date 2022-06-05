@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "d5a791e2b4e94f52",
+    "type": "split",
+    "children": [
+      {
+        "id": "37c44e1034909eec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Functional group priority chart.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4f28293f42cdd20",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ed7ba497ec81b74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a130d25a7e997b42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2fdbb1117f752f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "nitrite",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201
+  },
+  "right": {
+    "id": "6428ed3909f4ee8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bd8e722905adbb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08776133cb550ede",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Functional group priority chart.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c10c9fee38396f1c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 156
+  },
+  "active": "37c44e1034909eec",
+  "lastOpenFiles": [
+    "Functional group priority chart.md",
+    "Alkyl Nitrile.md",
+    "Isocyanide.md",
+    "Cyanide.md",
+    "Carboxylic acids.md",
+    "Tertiory Amines.md",
+    "Amine.md",
+    "Secondary Amines.md",
+    "Primary Amines.md",
+    "Sulphonic acid.md"
+  ]
+}
