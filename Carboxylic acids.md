@@ -9,8 +9,8 @@ R is a alkyl group which has 1 Hydrogen less than [[Alkane]]
 4) Naming should be in alphabetical order
 5) Write first substituent then chain name
 6) If same thing is repeated twice, 'di' will be prefix & so on
-7) Between number nad number there is coma
-8) BEtween number and word there is dash
+7) Between number and number there is coma
+8) Between number and word there is dash
 
 ## Naming
 | Carbon | Name      |
