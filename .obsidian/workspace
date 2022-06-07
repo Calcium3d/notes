@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "979a727c1631dd47",
+        "id": "c71e86fb2fb2ae24",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Test for Phosphorus.md",
+            "file": "Tertiary Amines.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "noic",
+                "query": "tertiory",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test for Phosphorus.md",
+                "file": "Tertiary Amines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "979a727c1631dd47",
+  "active": "c71e86fb2fb2ae24",
   "lastOpenFiles": [
-    "Test for Phosphorus.md",
-    "Test for Sulphur.md",
-    "Test for Halogens.md",
-    "Test for Carbon and Hydrogen.md",
-    "Qualitative Analysis of Organic Compound.md",
-    "Quantitative analysis of organic compounds.md",
-    "Lassaigne's test.md",
-    "Test for Nitrogen.md",
-    "Tautomerism.md",
-    "Sulphonic acid.md"
+    "Tertiary Amines.md",
+    "Basic nature of Amine.md",
+    "Reactivity of alkyl halides.md",
+    "Acidic nature of Carboxylic acids.md",
+    "Inductive Effect.md",
+    "Stability of alkyl Free radicals.md",
+    "Stability of Carbocation.md",
+    "Amine.md",
+    "-I Effect.md",
+    "+I Effect.md"
   ]
 }

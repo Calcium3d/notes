@@ -1,0 +1,1 @@
+The more the carbon atoms attracted by the carbocation, the more stable and less reactive it is. 

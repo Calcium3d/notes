@@ -39,7 +39,7 @@ There are 3
 ##### Under [[Secondary Amines]]
 ![[Pasted image 20220606095116.png]]
 
-##### [[Tertiory Amines]]
+##### [[Tertiary Amines]]
 
 ![[Pasted image 20220606095122.png]]
 
